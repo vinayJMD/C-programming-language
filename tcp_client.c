@@ -6,6 +6,6 @@
 //vinay
 int main(void)
 {
-
+Printf("Build the test\n");
  return 0;
 }
